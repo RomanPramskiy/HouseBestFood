@@ -152,7 +152,7 @@ li {
     color: #ff7400;
 }
 .hero {
-  background-image: url(./images/hero-image.svg);
+  background-image: url(../images/hero-image.svg);
   background-size: cover;
   background-position: center;
   height: 800px;
